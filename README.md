@@ -91,9 +91,6 @@ An adaptive public-speaking learning platform that combines personalized learnin
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sendygk&show_icons=true&theme=tokyonight&hide_border=true" alt="Sendy's GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sendygk&layout=compact&theme=tokyonight&hide_border=true" alt="Sendy's most used languages" />
-
 <img src="https://streak-stats.demolab.com?user=Sendygk&theme=tokyonight&hide_border=true" alt="Sendy's GitHub contribution streak" />
 
 </div>
