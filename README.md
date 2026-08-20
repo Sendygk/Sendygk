@@ -22,27 +22,11 @@ I'm an Information Systems student at **Universitas Bengkulu** who enjoys combin
 - 💡 Interested in building useful technology with real-world impact
 - 🤝 Open to collaboration on AI, education, and social-impact projects
 
-<h2 align="center">Academic Experience</h2>
+<img src="./assets/card-academic.svg" alt="Academic Experience — Practicum Assistant at Universitas Bengkulu" width="100%" />
 
-### 👩‍🏫 Practicum Assistant — Universitas Bengkulu
+<br>
 
-Assisting students in the **Intelligent Tutor** and **Machine Learning** courses by supporting practical sessions, explaining technical concepts, and guiding the implementation of algorithms and programming exercises.
-
-<h2 align="center">Featured Projects</h2>
-
-### 🤖 UBARA — Universitas Bengkulu Academic Response Assistant
-
-A university information chatbot that uses **Retrieval-Augmented Generation** to provide answers based on official Universitas Bengkulu documents.
-
-**Key technologies:** React, Vite, Express.js, Python, FAISS, Sentence Transformers, LangChain, and Groq API.
-
-> UBARA is designed to make academic and university information easier to access for students, prospective students, and the public.
-
-### 🎤 SkillUp AI — Intelligent Tutor System
-
-An adaptive public-speaking learning platform that combines personalized learning with AI-based body posture, hand gesture, and eye-contact analysis.
-
-**Key technologies:** React, Node.js, TensorFlow.js, MoveNet, and Cosine Similarity.
+<img src="./assets/card-projects.svg" alt="Featured Projects — UBARA and SkillUp AI" width="100%" />
 
 <h2 align="center">Tech Stack</h2>
 
@@ -71,22 +55,11 @@ An adaptive public-speaking learning platform that combines personalized learnin
 ![Pandas](https://img.shields.io/badge/Pandas-1a0b16?style=for-the-badge&logo=pandas&logoColor=ff80bd)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1a0b16?style=for-the-badge&logo=scikitlearn&logoColor=ff80bd)
 
-<h2 align="center">Achievements & Experiences</h2>
+<img src="./assets/card-achievements.svg" alt="Achievements and Experiences" width="100%" />
 
-- 🎓 Presenter at the International Conference of Information Systems, Computers, and Applied Sciences (ICISCAS) 2026
-- 🏆 Outstanding Student of HIMASIF, Faculty of Engineering, Universitas Bengkulu 2025
-- 👑 Putri Kampus Sosial Media Provinsi Bengkulu 2025
-- 💙 Bank Indonesia Scholarship Awardee 2025–2026 — GenBI
-- 🌟 Staff of the Year — FOTIK FT UNIB 2024
-- 🎙️ Host of **SIARAN Podcast**
-- 💻 Best Capstone Project
+<br>
 
-<h2 align="center">Organizations & Activities</h2>
-
-- **GenBI Universitas Bengkulu** — Publication and Social Media Division
-- **FOTIK FT UNIB** — Journalism Division and Podcast Host
-- **HIMASIF** — Community Service Secretariat
-- Active in public speaking, event hosting, journalism, and digital content creation
+<img src="./assets/card-organizations.svg" alt="Organizations and Activities" width="100%" />
 
 <img src="./assets/pink-divider.svg" alt="" width="100%" />
 
