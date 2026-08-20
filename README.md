@@ -63,7 +63,7 @@ I'm an Information Systems student at **Universitas Bengkulu** who enjoys combin
 
 <img src="./assets/pink-divider.svg" alt="" width="100%" />
 
-<h2 align="center">🐍 The Serpent's Path — Contributions</h2>
+<h2 align="center">🌸 The Serpent's Path — Contributions</h2>
 
 <p align="center"><em>Watch the pink serpent devour my contribution fields.</em></p>
 
@@ -71,7 +71,7 @@ I'm an Information Systems student at **Universitas Bengkulu** who enjoys combin
 
 <div align="center">
 
-[![Summon the Serpent](https://img.shields.io/badge/↻_SUMMON_THE_SERPENT-ff4fa3?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sendygk/Sendygk/actions/workflows/contribution-games.yml)
+[![Summon the Serpent](https://img.shields.io/badge/↻_SUMMON_THE_SERPENT-2a1025?style=for-the-badge&logo=github&logoColor=ff80bd&labelColor=2a1025)](https://github.com/Sendygk/Sendygk/actions/workflows/contribution-games.yml)
 
 </div>
 
