@@ -97,29 +97,21 @@ An adaptive public-speaking learning platform that combines personalized learnin
 
 </div>
 
-<details>
-<summary><strong>🐍 Play Contribution Snake</strong></summary>
-<br>
+### 🐍 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sendygk/Sendygk/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sendygk/Sendygk/output/github-contribution-grid-snake.svg">
-  <img alt="Sendy's contribution snake animation" src="https://raw.githubusercontent.com/Sendygk/Sendygk/output/github-contribution-grid-snake.svg">
+  <img alt="Sendy's contribution snake animation" src="https://raw.githubusercontent.com/Sendygk/Sendygk/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
 
-</details>
-
-<details>
-<summary><strong>👻 Play Contribution Pac-Man</strong></summary>
-<br>
+### 👻 Contribution Pac-Man
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sendygk/Sendygk/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sendygk/Sendygk/output/pacman-contribution-graph.svg">
-  <img alt="Sendy's Pac-Man contribution animation" src="https://raw.githubusercontent.com/Sendygk/Sendygk/output/pacman-contribution-graph.svg">
+  <img alt="Sendy's Pac-Man contribution animation" src="https://raw.githubusercontent.com/Sendygk/Sendygk/output/pacman-contribution-graph.svg" width="100%">
 </picture>
-
-</details>
 
 ## Let's Connect
 
