@@ -17,7 +17,8 @@
       <text x="50" y="226" fill="#bbaab5" font-size="14">Community Service Secretariat</text>
       <rect x="615" y="174" width="555" height="68" rx="12" fill="#09080c" stroke="#52203e"/>
       <text x="635" y="202" fill="#fff7fb" font-size="17" font-weight="700">Media &amp; Public Engagement</text>
-      <text x="635" y="226" fill="#bbaab5" font-size="14">Speaking · Hosting · Journalism · Digital Content</text>
+      <text x="635" y="224" fill="#bbaab5" font-size="13">Active in public speaking, event hosting, journalism,</text>
+      <text x="635" y="241" fill="#bbaab5" font-size="13">and digital content creation</text>
     </g>
   </g>
 </svg>

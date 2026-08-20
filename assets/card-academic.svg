@@ -9,7 +9,7 @@
     <line x1="38" y1="68" x2="1160" y2="68" stroke="#ff4fa3" stroke-opacity=".22"/>
     <text x="38" y="106" fill="#fff7fb" font-size="25" font-weight="700">Practicum Assistant — Universitas Bengkulu</text>
     <text x="38" y="140" fill="#ff80bd" font-size="18" font-weight="600">Intelligent Tutor  •  Machine Learning</text>
-    <text x="38" y="174" fill="#cbbfc8" font-size="17">Supporting practical sessions, explaining technical concepts, and guiding students through</text>
-    <text x="38" y="196" fill="#cbbfc8" font-size="17">algorithm implementation and programming exercises.</text>
+    <text x="38" y="170" fill="#cbbfc8" font-size="16">Assisting students in the Intelligent Tutor and Machine Learning courses by supporting practical sessions,</text>
+    <text x="38" y="193" fill="#cbbfc8" font-size="16">explaining technical concepts, and guiding the implementation of algorithms and programming exercises.</text>
   </g>
 </svg>

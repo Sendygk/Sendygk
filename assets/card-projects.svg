@@ -8,20 +8,23 @@
 
     <rect x="30" y="88" width="555" height="232" rx="14" fill="#09080c" stroke="#52203e"/>
     <circle cx="66" cy="124" r="17" fill="#321126"/><text x="66" y="130" text-anchor="middle" fill="#ff80bd" font-size="16" font-weight="800">U</text>
-    <text x="96" y="130" fill="#fff7fb" font-size="23" font-weight="700">UBARA</text>
-    <text x="48" y="166" fill="#ff80bd" font-size="15" font-weight="600">Academic Response Assistant</text>
-    <text x="48" y="198" fill="#cbbfc8" font-size="16">RAG-based university information chatbot</text>
-    <text x="48" y="221" fill="#cbbfc8" font-size="16">grounded in official Universitas Bengkulu documents.</text>
-    <text x="48" y="259" fill="#9e8d99" font-size="14">React · Vite · Express · Python · FAISS</text>
-    <text x="48" y="282" fill="#9e8d99" font-size="14">Sentence Transformers · LangChain · Groq API</text>
+    <text x="96" y="130" fill="#fff7fb" font-size="21" font-weight="700">UBARA</text>
+    <text x="48" y="158" fill="#ff80bd" font-size="13" font-weight="600">Universitas Bengkulu Academic Response Assistant</text>
+    <text x="48" y="190" fill="#cbbfc8" font-size="14">A university information chatbot that uses Retrieval-Augmented</text>
+    <text x="48" y="211" fill="#cbbfc8" font-size="14">Generation to provide answers based on official Universitas</text>
+    <text x="48" y="232" fill="#cbbfc8" font-size="14">Bengkulu documents.</text>
+    <text x="48" y="259" fill="#9e8d99" font-size="12">React · Vite · Express.js · Python · FAISS · Sentence Transformers</text>
+    <text x="48" y="278" fill="#9e8d99" font-size="12">LangChain · Groq API</text>
+    <text x="48" y="304" fill="#ff9cc8" font-size="10.5" font-style="italic">UBARA is designed to make academic and university information easier to access for</text>
+    <text x="48" y="319" fill="#ff9cc8" font-size="10.5" font-style="italic">students, prospective students, and the public.</text>
 
     <rect x="615" y="88" width="555" height="232" rx="14" fill="#09080c" stroke="#52203e"/>
     <circle cx="651" cy="124" r="17" fill="#321126"/><text x="651" y="130" text-anchor="middle" fill="#ff80bd" font-size="16" font-weight="800">S</text>
-    <text x="681" y="130" fill="#fff7fb" font-size="23" font-weight="700">SkillUp AI</text>
-    <text x="633" y="166" fill="#ff80bd" font-size="15" font-weight="600">Intelligent Tutor System</text>
-    <text x="633" y="198" fill="#cbbfc8" font-size="16">Adaptive public-speaking learning platform with</text>
-    <text x="633" y="221" fill="#cbbfc8" font-size="16">AI analysis of posture, gestures, and eye contact.</text>
-    <text x="633" y="259" fill="#9e8d99" font-size="14">React · Node.js · TensorFlow.js</text>
-    <text x="633" y="282" fill="#9e8d99" font-size="14">MoveNet · Cosine Similarity</text>
+    <text x="681" y="130" fill="#fff7fb" font-size="21" font-weight="700">SkillUp AI — Intelligent Tutor System</text>
+    <text x="633" y="174" fill="#cbbfc8" font-size="14">An adaptive public-speaking learning platform that combines</text>
+    <text x="633" y="195" fill="#cbbfc8" font-size="14">personalized learning with AI-based body posture, hand gesture,</text>
+    <text x="633" y="216" fill="#cbbfc8" font-size="14">and eye-contact analysis.</text>
+    <text x="633" y="259" fill="#9e8d99" font-size="13">React · Node.js · TensorFlow.js · MoveNet</text>
+    <text x="633" y="280" fill="#9e8d99" font-size="13">Cosine Similarity</text>
   </g>
 </svg>
