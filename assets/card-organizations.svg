@@ -1,24 +1,30 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="270" viewBox="0 0 1200 270" role="img" aria-label="Organizations and Activities">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="385" viewBox="0 0 1200 385" role="img" aria-label="Organizations and Activities">
   <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#100a10"/><stop offset="1" stop-color="#1b0b17"/></linearGradient></defs>
-  <rect x="2" y="2" width="1196" height="266" rx="18" fill="url(#bg)" stroke="#7d2453" stroke-width="2"/>
-  <rect x="2" y="2" width="7" height="266" rx="4" fill="#ff4fa3"/>
+  <rect x="2" y="2" width="1196" height="381" rx="18" fill="url(#bg)" stroke="#7d2453" stroke-width="2"/>
+  <rect x="2" y="2" width="7" height="381" rx="4" fill="#ff4fa3"/>
   <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">
     <text x="38" y="48" fill="#ff80bd" font-size="17" font-weight="700" letter-spacing="3">ORGANIZATIONS &amp; ACTIVITIES</text>
     <line x1="38" y1="68" x2="1160" y2="68" stroke="#ff4fa3" stroke-opacity=".22"/>
     <g>
-      <rect x="30" y="88" width="555" height="68" rx="12" fill="#09080c" stroke="#52203e"/>
-      <text x="50" y="116" fill="#fff7fb" font-size="17" font-weight="700">GenBI Universitas Bengkulu</text>
-      <text x="50" y="140" fill="#bbaab5" font-size="14">Publication and Social Media Division</text>
-      <rect x="615" y="88" width="555" height="68" rx="12" fill="#09080c" stroke="#52203e"/>
-      <text x="635" y="116" fill="#fff7fb" font-size="17" font-weight="700">FOTIK FT UNIB</text>
-      <text x="635" y="140" fill="#bbaab5" font-size="14">Journalism Division and Podcast Host</text>
-      <rect x="30" y="174" width="555" height="68" rx="12" fill="#09080c" stroke="#52203e"/>
-      <text x="50" y="202" fill="#fff7fb" font-size="17" font-weight="700">HIMASIF</text>
-      <text x="50" y="226" fill="#bbaab5" font-size="14">Community Service Secretariat</text>
-      <rect x="615" y="174" width="555" height="68" rx="12" fill="#09080c" stroke="#52203e"/>
-      <text x="635" y="202" fill="#fff7fb" font-size="17" font-weight="700">Media &amp; Public Engagement</text>
-      <text x="635" y="224" fill="#bbaab5" font-size="13">Active in public speaking, event hosting, journalism,</text>
-      <text x="635" y="241" fill="#bbaab5" font-size="13">and digital content creation</text>
+      <rect x="30" y="86" width="555" height="72" rx="12" fill="#09080c" stroke="#52203e"/>
+      <text x="50" y="114" fill="#fff7fb" font-size="16" font-weight="700">GenBI Komisariat Universitas Bengkulu</text>
+      <text x="50" y="139" fill="#bbaab5" font-size="14">Staff Publikasi dan Sosialisasi</text>
+      <rect x="615" y="86" width="555" height="72" rx="12" fill="#09080c" stroke="#52203e"/>
+      <text x="635" y="114" fill="#fff7fb" font-size="16" font-weight="700">GenBI Provinsi Bengkulu</text>
+      <text x="635" y="139" fill="#bbaab5" font-size="14">Sekretaris Divisi Publikasi dan Sosialisasi</text>
+      <rect x="30" y="174" width="555" height="72" rx="12" fill="#09080c" stroke="#52203e"/>
+      <text x="50" y="202" fill="#fff7fb" font-size="15" font-weight="700">Ikatan Putra Putri Kampus Provinsi Bengkulu</text>
+      <text x="50" y="227" fill="#bbaab5" font-size="14">Wakil Ketua Divisi Kominfo · 2025–2026</text>
+      <rect x="615" y="174" width="555" height="72" rx="12" fill="#09080c" stroke="#52203e"/>
+      <text x="635" y="202" fill="#fff7fb" font-size="15" font-weight="700">BEM KBM Fakultas Teknik Universitas Bengkulu</text>
+      <text x="635" y="227" fill="#bbaab5" font-size="14">Anggota Dinas PENSOSTEK · 2025</text>
+      <rect x="30" y="262" width="555" height="72" rx="12" fill="#09080c" stroke="#52203e"/>
+      <text x="50" y="290" fill="#fff7fb" font-size="16" font-weight="700">FOTIK FT UNIB</text>
+      <text x="50" y="315" fill="#bbaab5" font-size="14">Anggota Jurnalistik &amp; Host Podcast · 2023–2024</text>
+      <rect x="615" y="262" width="555" height="72" rx="12" fill="#09080c" stroke="#52203e"/>
+      <text x="635" y="290" fill="#fff7fb" font-size="16" font-weight="700">HIMASIF FT UNIB</text>
+      <text x="635" y="315" fill="#bbaab5" font-size="13">Sekretaris Bendahara Divisi Pengabdian Masyarakat · 2024–2025</text>
+      <text x="600" y="365" text-anchor="middle" fill="#ff9cc8" font-size="13" font-style="italic">Active in public speaking, event hosting, journalism, and digital content creation.</text>
     </g>
   </g>
 </svg>
