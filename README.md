@@ -1,8 +1,10 @@
 <div align="center">
 
+<img src="./assets/sendy-profile-banner.png" alt="Sendy Gyta Klaudya — AI and Full-Stack Developer" width="100%" />
+
 # Hi, I'm Sendy Gyta Klaudya! 👋
 
-### Information Systems Student · AI & Full-Stack Developer · Public Speaker
+<img src="./assets/typing-animation.svg" alt="Information Systems Student, AI and Full-Stack Developer, Practicum Assistant, Public Speaker" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Sendygk&label=Profile%20Views&color=4A6CF7&style=flat)](https://github.com/Sendygk)
 [![GitHub followers](https://img.shields.io/github/followers/Sendygk?label=Followers&style=flat&color=F4B400)](https://github.com/Sendygk?tab=followers)
@@ -87,13 +89,37 @@ An adaptive public-speaking learning platform that combines personalized learnin
 - **HIMASIF** — Community Service Secretariat
 - Active in public speaking, event hosting, journalism, and digital content creation
 
-## GitHub Statistics
+## Contribution Arcade
 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=Sendygk&theme=tokyonight&hide_border=true" alt="Sendy's GitHub contribution streak" />
 
 </div>
+
+<details>
+<summary><strong>🐍 Play Contribution Snake</strong></summary>
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sendygk/Sendygk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sendygk/Sendygk/output/github-contribution-grid-snake.svg">
+  <img alt="Sendy's contribution snake animation" src="https://raw.githubusercontent.com/Sendygk/Sendygk/output/github-contribution-grid-snake.svg">
+</picture>
+
+</details>
+
+<details>
+<summary><strong>👻 Play Contribution Pac-Man</strong></summary>
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sendygk/Sendygk/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sendygk/Sendygk/output/pacman-contribution-graph.svg">
+  <img alt="Sendy's Pac-Man contribution animation" src="https://raw.githubusercontent.com/Sendygk/Sendygk/output/pacman-contribution-graph.svg">
+</picture>
+
+</details>
 
 ## Let's Connect
 
