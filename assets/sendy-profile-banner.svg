@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-label="Sendy Gyta Klaudya — Information Systems, AI and Full-Stack Developer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#050509"/>
+      <stop offset="0.55" stop-color="#0d0711"/>
+      <stop offset="1" stop-color="#170916"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#ff4fa3" stop-opacity=".5"/>
+      <stop offset="1" stop-color="#ff4fa3" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="pink" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ff8bc4"/>
+      <stop offset=".5" stop-color="#ff4fa3"/>
+      <stop offset="1" stop-color="#b51768"/>
+    </linearGradient>
+    <filter id="soft"><feGaussianBlur stdDeviation="18"/></filter>
+    <filter id="smallGlow"><feGaussianBlur stdDeviation="3"/></filter>
+  </defs>
+
+  <rect width="1200" height="420" rx="18" fill="url(#bg)"/>
+  <circle cx="930" cy="126" r="170" fill="url(#glow)" filter="url(#soft)">
+    <animate attributeName="opacity" values=".55;.9;.55" dur="6s" repeatCount="indefinite"/>
+  </circle>
+
+  <g fill="none" stroke="#ff4fa3" stroke-opacity=".16">
+    <path d="M0 325 C190 255 340 380 545 310 S900 250 1200 315"/>
+    <path d="M0 350 C210 290 360 395 590 335 S930 275 1200 340"/>
+    <path d="M0 375 C220 325 400 410 630 360 S970 315 1200 370"/>
+  </g>
+
+  <g opacity=".7">
+    <circle cx="76" cy="72" r="2" fill="#ff8bc4"><animate attributeName="opacity" values=".2;1;.2" dur="4s" repeatCount="indefinite"/></circle>
+    <circle cx="154" cy="128" r="1.5" fill="#ff4fa3"><animate attributeName="opacity" values="1;.2;1" dur="5s" repeatCount="indefinite"/></circle>
+    <circle cx="1110" cy="72" r="2" fill="#ff8bc4"><animate attributeName="opacity" values=".2;1;.2" dur="3.5s" repeatCount="indefinite"/></circle>
+    <circle cx="1152" cy="192" r="1.5" fill="#ff4fa3"><animate attributeName="opacity" values="1;.2;1" dur="4.5s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <g transform="translate(835 92)">
+    <rect x="0" y="0" width="250" height="158" rx="14" fill="#0b0b12" stroke="#ff4fa3" stroke-opacity=".45"/>
+    <circle cx="20" cy="18" r="3" fill="#ff4fa3"/>
+    <circle cx="31" cy="18" r="3" fill="#7b214f"/>
+    <circle cx="42" cy="18" r="3" fill="#3a0d2e"/>
+    <g stroke-linecap="round" stroke-width="4">
+      <path d="M22 48h78" stroke="#ff80bd"/>
+      <path d="M22 66h126" stroke="#7b214f"/>
+      <path d="M40 84h82" stroke="#ff4fa3"/>
+      <path d="M40 102h150" stroke="#612044"/>
+      <path d="M22 120h106" stroke="#c83078"/>
+      <path d="M22 138h58" stroke="#7b214f"/>
+    </g>
+    <rect x="-26" y="140" width="302" height="16" rx="8" fill="#16121b" stroke="#ff4fa3" stroke-opacity=".25"/>
+    <path d="M65 156h146l24 74H41z" fill="#0a090e" stroke="#ff4fa3" stroke-opacity=".35"/>
+    <path d="M20 230h236" stroke="url(#pink)" stroke-width="4" stroke-linecap="round"/>
+  </g>
+
+  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">
+    <text x="86" y="142" fill="#ff80bd" font-size="18" font-weight="600" letter-spacing="5">HELLO, I'M</text>
+    <text x="82" y="203" fill="#fff7fb" font-size="50" font-weight="750" letter-spacing="1">SENDY GYTA</text>
+    <text x="82" y="259" fill="url(#pink)" font-size="50" font-weight="750" letter-spacing="1">KLAUDYA</text>
+    <line x1="86" y1="287" x2="590" y2="287" stroke="url(#pink)" stroke-width="2">
+      <animate attributeName="x2" values="86;590;590" keyTimes="0;.55;1" dur="3s" repeatCount="indefinite"/>
+    </line>
+    <text x="86" y="324" fill="#c9bdc6" font-size="17" letter-spacing="2.2">INFORMATION SYSTEMS · AI · FULL-STACK</text>
+    <text x="86" y="355" fill="#8c7d88" font-size="14" letter-spacing="1.7">UNIVERSITAS BENGKULU</text>
+  </g>
+
+  <rect x="0" y="0" width="6" height="420" rx="3" fill="url(#pink)">
+    <animate attributeName="opacity" values=".5;1;.5" dur="4s" repeatCount="indefinite"/>
+  </rect>
+</svg>

@@ -1,19 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="760" height="48" viewBox="0 0 760 48" role="img" aria-label="Sendy's professional roles">
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="48" viewBox="0 0 1000 48" role="img" aria-label="Sendy's professional roles">
+  <defs>
+    <clipPath id="reveal"><rect x="0" y="0" width="0" height="48"><animate attributeName="width" values="0;1000;1000;0" keyTimes="0;.42;.82;1" dur="8s" repeatCount="indefinite"/></rect></clipPath>
+  </defs>
   <style>
-    text { font: 600 20px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #4a6cf7; text-anchor: middle; }
-    .line { opacity: 0; animation: show 12s infinite; }
-    .line2 { animation-delay: 3s; }
-    .line3 { animation-delay: 6s; }
-    .line4 { animation-delay: 9s; }
-    @keyframes show {
-      0%, 4% { opacity: 0; transform: translateY(6px); }
-      8%, 21% { opacity: 1; transform: translateY(0); }
-      25%, 100% { opacity: 0; transform: translateY(-6px); }
-    }
-    @media (prefers-color-scheme: dark) { text { fill: #79a6ff; } }
+    text { font: 600 17px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #d81b78; text-anchor: middle; letter-spacing: .5px; }
+    @media (prefers-color-scheme: dark) { text { fill: #ff80bd; } }
   </style>
-  <text class="line line1" x="380" y="31">Information Systems Student</text>
-  <text class="line line2" x="380" y="31">AI &amp; Full-Stack Developer</text>
-  <text class="line line3" x="380" y="31">Intelligent Tutor &amp; Machine Learning Practicum Assistant</text>
-  <text class="line line4" x="380" y="31">Public Speaker &amp; Podcast Host</text>
+  <text x="500" y="31" clip-path="url(#reveal)">Information Systems Student · AI &amp; Full-Stack Developer · Practicum Assistant · Public Speaker</text>
 </svg>

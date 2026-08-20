@@ -17,18 +17,13 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      - name: Generate Pac-Man contribution graph
-        uses: abozanona/pacman-contribution-graph@main
-        with:
-          github_user_name: ${{ github.repository_owner }}
-
       - name: Generate contribution snake
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg?palette=github-light&color_snake=4A6CF7
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=F4B400
+            dist/github-contribution-grid-snake.svg?color_snake=ff4fa3&color_dots=fff0f7,f9c0d9,f27eac,e83e88,b51768
+            dist/github-contribution-grid-snake-dark.svg?color_snake=ff66b3&color_dots=0d0714,3a0d2e,711348,b5165b,ff4f9a
 
       - name: Publish games to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
