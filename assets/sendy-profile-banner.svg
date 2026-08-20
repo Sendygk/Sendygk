@@ -62,7 +62,7 @@
       <animate attributeName="x2" values="86;590;590" keyTimes="0;.55;1" dur="3s" repeatCount="indefinite"/>
     </line>
     <text x="86" y="324" fill="#c9bdc6" font-size="17" letter-spacing="2.2">INFORMATION SYSTEMS · AI · FULL-STACK</text>
-    <text x="86" y="355" fill="#8c7d88" font-size="14" letter-spacing="1.7">UNIVERSITAS BENGKULU</text>
+    <text x="86" y="355" fill="#8c7d88" font-size="14" letter-spacing="1.7">UNIVERSITY OF BENGKULU</text>
   </g>
 
   <rect x="0" y="0" width="6" height="420" rx="3" fill="url(#pink)">
