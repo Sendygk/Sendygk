@@ -67,7 +67,7 @@ I'm an Information Systems student at **Universitas Bengkulu** who enjoys combin
 
 <p align="center"><em>Watch the pink serpent devour my contribution fields.</em></p>
 
-<img alt="Sendy's pink contribution snake animation" src="https://raw.githubusercontent.com/Sendygk/Sendygk/output/github-contribution-grid-snake.svg" width="100%">
+<img alt="Sendy's pink contribution snake animation" src="https://raw.githubusercontent.com/Sendygk/Sendygk/output/github-contribution-grid-snake-pink.svg" width="100%">
 
 <div align="center">
 
